@@ -17,13 +17,29 @@ body {
 }
 
 img {
-    width: 700px;
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+}
+
+.hero {
+    width: 500px;
 }
 
 .menu {
+    padding: 0;
     text-align: center;
+}
+
+.menu li {
+    margin-bottom: 8px;
+    font-size: 24px;
 }
 
 .link {
     text-align: center;
+}
+
+.container {
+    padding: 16px;
 }
