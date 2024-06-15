@@ -1,0 +1,29 @@
+body {
+    background-color: lightyellow;
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title, .subtitle {
+    text-align: center;
+}
+
+.title {
+    font-size: 48px;
+}
+
+.subtitle {
+    font-size: 32px;
+}
+
+img {
+    width: 700px;
+}
+
+.menu {
+    text-align: center;
+}
+
+.link {
+    text-align: center;
+}
